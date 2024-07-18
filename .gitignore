@@ -1,0 +1,3 @@
+./mern-backend/node_modules
+./mern-frontend/node_modules
+/node_modules
