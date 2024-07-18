@@ -71,7 +71,7 @@ Start the backend server:
 
 ```sh
 cd ../mern-backend
-npm start
+node index.js
 # Server will run on http://localhost:5000/
 ```
 
